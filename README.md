@@ -69,3 +69,9 @@ Contributions are welcome! If you have any improvements, suggestions, or bug fix
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Screenshots
+<img width="1512" alt="Screenshot 2025-06-19 at 9 54 12 PM" src="https://github.com/user-attachments/assets/9a834aff-6667-4c47-93f3-3776440161ec" />
+<img width="1507" alt="Screenshot 2025-06-19 at 9 53 47 PM" src="https://github.com/user-attachments/assets/c5227937-301f-46d4-affa-5432e804b21e" />
+<img width="1504" alt="Screenshot 2025-06-19 at 9 53 34 PM" src="https://github.com/user-attachments/assets/8b6a778f-f0b0-4f63-96d3-42ffb6b46d08" />
+
